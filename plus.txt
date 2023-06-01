@@ -1,1 +1,54 @@
 https://www.dropbox.com/scl/fo/svkmski2q3kjiox7vwh2t/h?dl=0&rlkey=ihombyjrio1ezgrdl5swxivsi
+
+https://forms.gle/TdP31KZPp9izx6qG6
+
+# plotly dash
+https://plotly.com/examples/ 
+
+# geopandas 
+https://geopandas.org/en/stable/index.html
+https://github.com/geopandas/geopandas 
+라이선스 
+
+# EDA 
+Exploratory_data_Analysis.ipynb
+EDA_GUI_Package.ipynb
+전국어린이보호구역표준데이터.csv
+
+노트북 파일 용량 
+
+# rasterio
+https://rasterio.readthedocs.io/en/stable/index.html
+https://github.com/rasterio/rasterio
+
+https://programmerpsy.tistory.com/106
+
+# xarray 
+https://docs.xarray.dev/en/stable/user-guide/data-structures.html
+
+기후정보포털 - 기후변화 시나리오 
+http://climate.go.kr/home/CCS/contents_2021/Definition.html#;
+climate_change_scenario.ipynb
+AR6_SSP585_5ENSMN_skorea_TA_gridraw_yearly_2021_2100.nc
+
+# geemap/ leafmap 
+https://www.youtube.com/@giswqs/videos
+
+github.com/giswqs/geemap 
+
+https://giswqs-solara-geospatial.hf.space/
+
+https://huggingface.co/spaces/giswqs/Streamlit
+
+# GeoAI
+https://github.com/earth-genome/ChatGeoPT
+
+https://segment-anything.com/
+
+https://github.com/opengeos/segment-geospatial 
+https://www.youtube.com/watch?v=YHA_-QMB8_U
+satellite_segmentaion.ipynb
+
+# DEM - plotly
+https://thlee33.medium.com/plotly-3d-suface%EB%A5%BC-%EC%9D%B4%EC%9A%A9%ED%95%9C-dem-%EC%8B%9C%EA%B0%81%ED%99%94-d7ac16aad838
+https://github.com/thlee33/plotly3d
